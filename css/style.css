@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Meera Inimai", sans-serif;
+  background-color: #bac4d4c0;
+  font-size: 62.5%;
+}
+
+.card {
+  background-color: #070f1f;
+  color: #ffffff;
+}
+
+.card_position {
+display: flex;
+justify-content: center;
+}
+
+#countdown {
+
+  border-radius: 25px;
+  background-color: #0b152b85;;
+  border: #070f1f;
+  color: #ffffff;
+
+}
